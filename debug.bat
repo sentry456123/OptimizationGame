@@ -1,0 +1,2 @@
+make debug
+call .\start
